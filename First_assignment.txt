@@ -1,5 +1,7 @@
 1. WHAT ARE YOUR MOTIVATIONS TOWARDS BIOINFORMATICS?
-
+ I want to learn and understand bioinformatics so that I can analyze complex biological data through bioinformatics , as bioinformatics is a combination of computer science , biology and statistics
+ Moreover , I would love to work in dry lab in future . 
+And I have a lot of interest in computational biology.
 
 
 
@@ -10,3 +12,6 @@
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+ I would love to get a lot of knowledge from this association and I want to learn how to code . 
+ I even want to learn the areas where bioinformatics is of great use.
+ I also want to learn how to solve biological problems.
